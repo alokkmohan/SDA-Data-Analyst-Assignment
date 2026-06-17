@@ -18,7 +18,7 @@ st.set_page_config(
 st.markdown("""
 <style>
   .stApp { background-color: #f0f2f6; }
-  .block-container { padding-top: 0rem !important; max-width: 1100px; }
+  .block-container { padding-top: 0rem !important; max-width: 100% !important; padding-left: 1rem !important; padding-right: 1rem !important; }
 
   /* Hero */
   .hero {
