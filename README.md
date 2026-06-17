@@ -1,5 +1,5 @@
 # SDA Data Analyst Assignment
-**State Data Authority (SDA), Uttar Pradesh — Metadata Platform Quality Review**
+**State Data Authority (SDA), Uttar Pradesh: Metadata Platform Quality Review**
 
 ## Live Dashboard
 
