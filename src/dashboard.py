@@ -108,7 +108,7 @@ dpdp_issues = len(submissions[
 # ─── HERO ────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
-  <h1>SDA Uttar Pradesh &mdash; Metadata Compliance Dashboard</h1>
+  <h1>SDA Uttar Pradesh : Metadata Compliance Dashboard</h1>
   <p>State Data Authority &nbsp;&bull;&nbsp; Data Governance Lead View</p>
   <div class="hero-badges">
     <span class="hero-badge">As of 25 April 2026</span>
